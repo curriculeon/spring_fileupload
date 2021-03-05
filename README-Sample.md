@@ -11,7 +11,7 @@
 
 ### Testing Application via Postman
 
-* Ensure that the `start-class` tag in your `pom.xml` encapsulates `com.github.curriculeon.MyApplication`
+* Ensure that the `start-class` tag in your `pom.xml` encapsulates `com.github.perscholas.MyApplication`
 * Open a command line and navigate to the project's root directory and run this command:
 	* `mvn spring-boot:run`
 * Launch the [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) app and enter the URI `http://localhost:8080/` and hit Send.
